@@ -1,0 +1,45 @@
+"<h1>Maintenance Form</h1>" &
+
+"<table width='70%'border='1px'cellpadding='5'> " &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Register Number<b/> </td> <td>" & Subtitle2_1 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Request Type</b> </td> <td>" & Body1_5 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Requested By</b> </td> <td>" & Body1_6 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Request Date</b> </td> <td>" & Body1_7 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Priority<b> </td> <td>" & Body1_8 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Details</b> </td> <td>" & Body1_9 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Allowed Time Frame</b> </td> <td>" & Subtitle2_2 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Date Accepted</b> </td> <td>" & Subtitle2_3 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Due Date</b> </td> <td>" & Subtitle2_5 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Request Closed</b> </td> <td>" & Subtitle2_6 & "</td>
+     </tr>" &
+     
+     "<tr>
+         <td style='background-color:#efefef'> <b>Close Date</b> </td> <td>" & Subtitle2_7 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Assigned To </b> </td> <td>" & Subtitle2_4 & "</td>
+     </tr>" &
+     "<tr>
+         <td style='background-color:#efefef'> <b>Comments</b> </td> <td>" & Body1_10 & "</td>
+     </tr>" &
+     
+"</table> <br>" 
